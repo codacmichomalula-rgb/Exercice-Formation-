@@ -1,2 +1,72 @@
 # Exercice-Formation-
 Pour l'apprentissage 
+DOCTYPE html>
+‎<html>
+‎<head>
+‎    <title>Boutique Simple</title>
+‎    <link rel="stylesheet" href="style.css">
+‎</head>
+‎<body>
+‎
+‎    <!-- EN-TÊTE -->
+‎    <header>
+‎        <h1>SimpleShop</h1>
+‎        <p>Votre boutique en ligne simple et fiable</p>
+‎
+‎        <nav>
+‎            <a href="#">Accueil</a>
+‎            <a href="#">Produits</a>
+‎            <a href="#">Contact</a>
+‎        </nav>
+‎    </header>
+‎
+‎    <!-- CONTENU PRINCIPAL -->
+‎    <main>
+‎
+‎        <!-- SECTION PRÉSENTATION -->
+‎        <section class="presentation">
+‎            <h2>Bienvenue sur SimpleShop</h2>
+‎            <p>
+‎                SimpleShop est une boutique en ligne dédiée à la vente de produits
+‎                de qualité à des prix accessibles. Notre objectif est de vous offrir
+‎                une expérience simple et agréable.
+‎            </p>
+‎            <img src="image.jpg" alt="Image de la boutique">
+‎        </section>
+‎
+‎        <!-- SECTION PRODUITS -->
+‎        <section class="produits">
+‎            <h2>Nos Produits Populaires</h2>
+‎
+‎            <div class="produit">
+‎                <img src="produit1.jpg" alt="Produit 1">
+‎                <h3>Produit 1</h3>
+‎                <p>Un produit de très bonne qualité.</p>
+‎                <a href="#">Voir le produit</a>
+‎            </div>
+‎
+‎            <div class="produit">
+‎                <img src="produit2.jpg" alt="Produit 2">
+‎                <h3>Produit 2</h3>
+‎                <p>Un produit fiable et durable.</p>
+‎                <a href="#">Voir le produit</a>
+‎            </div>
+‎
+‎            <div class="produit">
+‎                <img src="produit3.jpg" alt="Produit 3">
+‎                <h3>Produit 3</h3>
+‎                <p>Le meilleur choix pour vous.</p>
+‎                <a href="#">Voir le produit</a>
+‎            </div>
+‎
+‎        </section>
+‎
+‎    </main>
+‎
+‎    <!-- PIED DE PAGE -->
+‎    <footer>
+‎        <p>© Février 2026 - SimpleShop</p>
+‎    </footer>
+‎
+‎</body>
+‎</html>
